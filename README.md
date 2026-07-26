@@ -2,8 +2,8 @@
 
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
- > 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security
- 
+> 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security · **Awesome Cybersecurity Podcasts** — curated cybersecurity podcasts: https://github.com/TalEliyahu/awesome-cybersecurity-podcasts
+  
 
 ## Niche Newsletters 
 
@@ -42,7 +42,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 - [Venture in Security](https://ventureinsecurity.net/) - A free weekly newsletter about the business side of security (startups, ecosystem, venture capital, investing, markets etc.)
 
 - [MI-One by Metron Security](https://hub.metronlabs.com/newsletter/) - It's your exclusive monthly peek into the inner world of security system integrations and automation.
-  
+   
 ## News Newsletters 
 
 - [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news.
@@ -55,7 +55,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [This week in security](https://this.weekinsecurity.com/) - A weekly tl;dr cybersecurity newsletter of all the major stuff you missed, but really need to know. It includes news, the happy corner, a featured cyber cat (or friend), and more. It's sent every Sunday, and is completely free. Prepared by Zack Whittaker [(@zackwhittaker)](https://twitter.com/zackwhittaker).
 
-- [Hive Five Newsletter](https://www.hivefive.community/t/Newsletter) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee)](https://twitter.com/securibee).
+- [Hive Five Newsletter](https://www.hivefive.community/t/Newsletter) - Sharing what matters in security. Every week securibee curates InfoSec news, so you can focus on securing web apps and earning bug bounties - Pusha B [(@securibee](https://twitter.com/securibee).
 
 - [SANS Newsletters](https://www.sans.org/newsletters/) - SANS offers three newsletters to keep you up-to-date on the latest cybersecurity news, cyber attacks and vulnerabilities, and security awareness tips and stories.
 
