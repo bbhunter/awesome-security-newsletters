@@ -2,7 +2,7 @@
 
 Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 
-> 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security · **Awesome Cybersecurity Podcasts** — curated cybersecurity podcasts: https://github.com/TalEliyahu/awesome-cybersecurity-podcasts
+> 🔗 Related: **Awesome AI Security** — curated resources for securing AI systems: https://github.com/TalEliyahu/Awesome-AI-Security · **Awesome Cybersecurity Podcasts** — curated cybersecurity podcasts: https://github.com/TalEliyahu/awesome-cybersecurity-podcasts · **Awesome Cybersecurity Conferences** — curated cybersecurity conferences: https://awesomecybersecurityconferences.com/
   
 
 ## Niche Newsletters 
@@ -63,7 +63,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
-- [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
+- [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
 
 ## LinkedIn Groups:
 
